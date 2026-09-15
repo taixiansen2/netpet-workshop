@@ -1,0 +1,206 @@
+{
+  "schema": 1,
+  "updated": "2026-09-15",
+  "skins": [
+    {
+      "id": "kamisato_ayaka",
+      "name": "神里绫华",
+      "author": "NetPet 同人设计",
+      "format": 1,
+      "version": "1.0.0",
+      "size": 2791,
+      "sha256": "ff4ddfc1f289fc3432a5d4a3ac851e26c213ef2a6526f20c156734cd81783241",
+      "anims": 8,
+      "frames": 8,
+      "preview": "previews/kamisato_ayaka.png",
+      "download": "packs/kamisato_ayaka.netpetskin",
+      "tags": [
+        "角色",
+        "v1"
+      ],
+      "license": "unofficial-fanart",
+      "description": "NetPet 原创同人角色，含八种表情。"
+    },
+    {
+      "id": "puppet_cat",
+      "name": "木偶猫",
+      "author": "NetPet 同人设计",
+      "format": 1,
+      "version": "1.0.0",
+      "size": 7170,
+      "sha256": "21be973e7d8e39351789f25319fe380bffd7e68430747636cba1a2afcd5ce14e",
+      "anims": 8,
+      "frames": 8,
+      "preview": "previews/puppet_cat.png",
+      "download": "packs/puppet_cat.netpetskin",
+      "tags": [
+        "角色",
+        "v1"
+      ],
+      "license": "unofficial-fanart",
+      "description": "NetPet 原创同人角色，含八种表情。"
+    },
+    {
+      "id": "codex_bsod",
+      "name": "BSOD",
+      "author": "OpenAI",
+      "format": 2,
+      "version": "1.0.0",
+      "size": 1391653,
+      "sha256": "e7c01c77eeb447fc661aa138f1e113f880efcbd5869d86212cc596fdd605bc77",
+      "anims": 22,
+      "frames": 129,
+      "preview": "previews/codex_bsod.png",
+      "download": "packs/codex_bsod.netpetv2",
+      "tags": [
+        "v2"
+      ],
+      "license": "codex-official-personal",
+      "description": "BSOD，由 OpenAI 制作。"
+    },
+    {
+      "id": "codex_codey",
+      "name": "Codey",
+      "author": "OpenAI",
+      "format": 2,
+      "version": "1.0.0",
+      "size": 1345026,
+      "sha256": "329ec525071ad8660a2418bc6c1ed95c5ca653a0b33b9b7272d148ce00c77065",
+      "anims": 22,
+      "frames": 129,
+      "preview": "previews/codex_codey.png",
+      "download": "packs/codex_codey.netpetv2",
+      "tags": [
+        "v2"
+      ],
+      "license": "codex-official-personal",
+      "description": "Codey，由 OpenAI 制作。"
+    },
+    {
+      "id": "codex_dewey",
+      "name": "Dewey",
+      "author": "OpenAI",
+      "format": 2,
+      "version": "1.0.0",
+      "size": 1187338,
+      "sha256": "c70c0ecdc32d1cbf558aa22a5357cf0ee854dad840121b7779c092b9d1fdc53d",
+      "anims": 22,
+      "frames": 129,
+      "preview": "previews/codex_dewey.png",
+      "download": "packs/codex_dewey.netpetv2",
+      "tags": [
+        "v2"
+      ],
+      "license": "codex-official-personal",
+      "description": "Dewey，由 OpenAI 制作。"
+    },
+    {
+      "id": "codex_fireball",
+      "name": "Fireball",
+      "author": "OpenAI",
+      "format": 2,
+      "version": "1.0.0",
+      "size": 1473425,
+      "sha256": "bc72a08b6e6337f234baab13edf96d366a9d30ee0b97c501143b2b21e2800c9f",
+      "anims": 22,
+      "frames": 129,
+      "preview": "previews/codex_fireball.png",
+      "download": "packs/codex_fireball.netpetv2",
+      "tags": [
+        "v2"
+      ],
+      "license": "codex-official-personal",
+      "description": "Fireball，由 OpenAI 制作。"
+    },
+    {
+      "id": "codex_hoots",
+      "name": "Hoots",
+      "author": "OpenAI",
+      "format": 2,
+      "version": "1.0.0",
+      "size": 2501921,
+      "sha256": "73fbcb1d8437d9b8b7f8065c8194175b7b71b554b13fda0bda4be998a3233a60",
+      "anims": 22,
+      "frames": 129,
+      "preview": "previews/codex_hoots.png",
+      "download": "packs/codex_hoots.netpetv2",
+      "tags": [
+        "v2"
+      ],
+      "license": "codex-official-personal",
+      "description": "Hoots，由 OpenAI 制作。"
+    },
+    {
+      "id": "codex_null_signal",
+      "name": "Null Signal",
+      "author": "OpenAI",
+      "format": 2,
+      "version": "1.0.0",
+      "size": 817376,
+      "sha256": "f2cb57fdda94ab32c4739253707850ed0e3ab4d84716e677a47c2433bdd4771f",
+      "anims": 22,
+      "frames": 129,
+      "preview": "previews/codex_null_signal.png",
+      "download": "packs/codex_null_signal.netpetv2",
+      "tags": [
+        "v2"
+      ],
+      "license": "codex-official-personal",
+      "description": "Null Signal，由 OpenAI 制作。"
+    },
+    {
+      "id": "codex_rocky",
+      "name": "Rocky",
+      "author": "OpenAI",
+      "format": 2,
+      "version": "1.0.0",
+      "size": 1010634,
+      "sha256": "3e019a7b4e532a243956a600723303e92f7d7f49de77b7b9d3dff4e04c95e925",
+      "anims": 22,
+      "frames": 129,
+      "preview": "previews/codex_rocky.png",
+      "download": "packs/codex_rocky.netpetv2",
+      "tags": [
+        "v2"
+      ],
+      "license": "codex-official-personal",
+      "description": "Rocky，由 OpenAI 制作。"
+    },
+    {
+      "id": "codex_seedy",
+      "name": "Seedy",
+      "author": "OpenAI",
+      "format": 2,
+      "version": "1.0.0",
+      "size": 1305941,
+      "sha256": "e30654f395d7cfce799c9556bc0d580bde1fe50e0335dcb77ae4ada87bceb04d",
+      "anims": 22,
+      "frames": 129,
+      "preview": "previews/codex_seedy.png",
+      "download": "packs/codex_seedy.netpetv2",
+      "tags": [
+        "v2"
+      ],
+      "license": "codex-official-personal",
+      "description": "Seedy，由 OpenAI 制作。"
+    },
+    {
+      "id": "codex_stacky",
+      "name": "Stacky",
+      "author": "OpenAI",
+      "format": 2,
+      "version": "1.0.0",
+      "size": 1080633,
+      "sha256": "0f24af6877fdaf5c763c8abcb17f5b873f2ef681c1e6312d1240deeec5daee40",
+      "anims": 22,
+      "frames": 129,
+      "preview": "previews/codex_stacky.png",
+      "download": "packs/codex_stacky.netpetv2",
+      "tags": [
+        "v2"
+      ],
+      "license": "codex-official-personal",
+      "description": "Stacky，由 OpenAI 制作。"
+    }
+  ]
+}
