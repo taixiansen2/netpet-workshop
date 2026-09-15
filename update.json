@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "client": {
+    "version": "1.0.0",
+    "url": "https://github.com/taixiansen2/netpet-workshop",
+    "published": "2026-09-15",
+    "notes": "首个包含创意工坊与一键刷机的 NetPet Studio 版本。"
+  },
+  "firmware": {
+    "version": "netpet_v2_pet-1.0",
+    "notes": "随客户端一起刷写的 NetPet v2 固件；使用“一键刷机”即可更新。"
+  }
+}
