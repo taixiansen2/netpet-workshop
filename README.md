@@ -54,11 +54,12 @@ https://raw.githubusercontent.com/taixiansen2/netpet-workshop/main/workshop/
 
 ```powershell
 .\.venv-gui\Scripts\python.exe .\tools\build_workshop_index.py `
-  --packs host_gui\assets dist\codex-pets-v2 `
+  --packs tools\workshop-sources dist\codex-pets-v2 `
   --out ..\netpet-workshop\workshop
 ```
 
-然后提交并推送本仓库。
+`tools\workshop-sources` 由 `host_gui\make_builtin_skins.py` 生成，存放木偶猫与
+神里绫华；客户端内置的 `netpet_classic` 不会上架。随后提交并推送本仓库。
 
 ## 素材与授权
 
